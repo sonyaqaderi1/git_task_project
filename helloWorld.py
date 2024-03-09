@@ -1,4 +1,4 @@
-# This script gathers information on the user
+# This script gathers information on the user and its pet
 
 name = input("Enter your name: ")
 surname = input("Enter your surname: ")
